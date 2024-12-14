@@ -8,7 +8,7 @@
     <link href="/2024/12/14/%E5%88%9B%E5%BB%BA%E6%96%87%E7%AB%A0/"/>
     <url>/2024/12/14/%E5%88%9B%E5%BB%BA%E6%96%87%E7%AB%A0/</url>
     
-    <content type="html"><![CDATA[<p>本地启动</p><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs js">hexo g -d<br>hexo s<br></code></pre></td></tr></table></figure><p>创建文章</p><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs js">hexo <span class="hljs-keyword">new</span> post 测试文章<br></code></pre></td></tr></table></figure><p><img src="/image-20241214220612017.png" alt="image-20241214220612017"></p>]]></content>
+    <content type="html"><![CDATA[<p>本地启动</p><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs js">hexo g -d<br>hexo s<br></code></pre></td></tr></table></figure><p>创建文章</p><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs js">hexo <span class="hljs-keyword">new</span> post 测试文章<br></code></pre></td></tr></table></figure><p><img src="/./%E5%88%9B%E5%BB%BA%E6%96%87%E7%AB%A0/image-20241214220612017.png" alt="image-20241214220612017"></p>]]></content>
     
     
     
